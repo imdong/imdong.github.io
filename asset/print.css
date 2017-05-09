@@ -4,4 +4,5 @@
 @media print {
     .print_hide {display: none;}
     .page_number {page-break-after: always; display: block;}
+    .page_number_end {margin: auto; position: fixed; bottom: 0px; left: 0; right: 0;}
 }
