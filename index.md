@@ -1,6 +1,6 @@
 # 王东 <span style="font-size: initial;">(3年PHP开发)</span>
 
-<span style="font-size: x-small;"> > 简历在线版: [imdong.github.io](https://imdong.github.io/) PDF版(HR请走这里): [qs5.org/resume](https://qs5.org/resume)</span>
+<span style="font-size: x-small;"> >> 简历在线版: [imdong.github.io](https://imdong.github.io/) >> PDF版(<b>HR请<b/>走这里): [qs5.org/resume](https://qs5.org/resume)</span>
 
 ### 自我介绍
 
@@ -8,14 +8,14 @@
 >熟悉Linux系统日常维护、正则表达式。  
 >关于
 
-### 联系方式
+### 关于我 / 与我联系
 
-|||||
+|键|值|键|值|
 |----|----|----|----|
-|手机|15263263676|邮箱|www@qs5.org|
+|性别|男|手机|15263263676
+|年龄|24岁|邮箱|www@qs5.org|
 |Q  Q|598346965|博客|www.qs5.org|
 |微信|im27786 (不常用)|GitHub|github.com/imdong
-
 
 ### 项目经验
 ##### 站群批量建站系统(2016.04-2016.05 / PHP + JS / 独立完成)
