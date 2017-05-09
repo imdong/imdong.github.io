@@ -11,19 +11,20 @@
 
 ## 关于我 / 联系我
 
-|||||
-|----|----|----|----|
-|**性别**|男|**手机**|15263263676 (山东枣庄)|
-|**年龄**|24岁|**邮箱**|[job@qs5.org](mailto://job@qs5.org)|
-|**籍贯**|山东省-枣庄|**博客**|[www.qs5.org](https://www.qs5.org/?github.io)|
-|**Q  Q**|598346965|**GitHub**|[github.com/imdong](https://github.com/imdong)|
++ **性别**: 男
++ **年龄**: 24岁
++ **籍贯**: 山东省-枣庄
++ **手机**: 15263263676 (山东枣庄)
++ **Q  Q**: 598346965
++ **邮箱**: [job@qs5.org](mailto://job@qs5.org)
++ **博客**: [www.qs5.org](https://www.qs5.org/?github.io)
++ **GitHub**: [github.com/imdong](https://github.com/imdong)
 
 ## 技术能力
 
 > 开发语言: PHP, JavaScript  
 > 技术框架: ThinkPHP, jQuery, Bootstrap  
 > 其他相关: Linux, Nginx, MySQL, Regexp, Git  
-> 另: 对协议层相关技术有些许了解
 
 ## 工作/学习经历
 
