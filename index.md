@@ -34,7 +34,7 @@
 ## 个人作品
 + QsMail Server(Mail邮件服务端框架)
 + PHP小数据缓存类
-+ Swoole热更新脚本, 单实例管理Shell脚本
++ Swoole热更新脚本, 单实例进程管理Shell脚本
 
 ## 技术文章
 + [【正则表达式】解析命令行参数(附PHP例子)](https://www.qs5.org/Post/651.html)
