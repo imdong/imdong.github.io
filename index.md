@@ -23,14 +23,13 @@
 
 ## 技术能力
 
-> 开发语言: PHP, JavaScript  
+> 开发语言: PHP, JavaScript, C#(入门)  
 > 技术框架: ThinkPHP, jQuery, Bootstrap  
 > 其他相关: Linux, Nginx, MySQL, Regexp, Git  
 
 ## 兴趣爱好
 
-> 爱好跑步, 羽毛球, 徒步  
-> 偶尔会参与一些户外活动
+> 爱好跑步, 羽毛球, 徒步, 偶尔会参与一些户外活动
 
 ## 个人作品
 + QsMail Server(Mail邮件服务端框架)
@@ -39,9 +38,9 @@
 + PHP小数据缓存类
 
 ## 技术文章
-+ [【正则表达式】解析命令行参数(附PHP例子): https://www.qs5.org/Post/651.html](https://www.qs5.org/Post/651.html)
-+ [PHP中if($a==false)和if(!$a)哪种写法速度更快？: https://www.qs5.org/Post/637.html](https://www.qs5.org/Post/637.html)
-+ [【源码】C#根据IP段生成随机IP: https://www.qs5.org/Post/633.html](https://www.qs5.org/Post/633.html)
++ [【正则表达式】解析命令行参数(附PHP例子)](https://www.qs5.org/Post/651.html)
++ [PHP中if($a==false)和if(!$a)哪种写法速度更快？](https://www.qs5.org/Post/637.html)
++ [【源码】C#根据IP段生成随机IP](https://www.qs5.org/Post/633.html)
 
 ## 工作/学习经历
 
