@@ -1,19 +1,16 @@
-<!-- 预制样式 -->
-<style type="text/css">
-    @media print {
-        .print{display: none;}
-    }
-</style>
 # 王东 <span style="font-size: initial;">(3年PHP开发)</span>
+
 <span class="print"> > 简历在线版: [imdong.github.io](https://imdong.github.io/) PDF版(HR请走这里): [qs5.org/resume](https://qs5.org/resume)</span>
+
 ### 自我介绍
+
 >业余时间自学PHP，三年PHP开发工作经验。
 >熟悉Linux系统日常维护、正则表达式。
 >关于
 
 ### 联系方式
 
-| | | | |
+|||||
 |----|----|----|----|
 |手机|15263263676|邮箱|www@qs5.org|
 |Q  Q|598346965|博客|www.qs5.org|
@@ -48,6 +45,12 @@
 |2015.02-2015.09|枣庄美辰信息技术|PHP开发|来深圳发展|
 |2010.09-2011.11|枣庄科技职业学院|计算机应用|中专结业|
 
+<!-- 预制样式 -->
+<style type="text/css">
+    @media print {
+        .print{display: none;}
+    }
+</style>
 <!-- 重写标题 -->
 <script type="text/javascript">
 document.title = '王东 (3年PHP开发)';
