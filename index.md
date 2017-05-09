@@ -1,6 +1,6 @@
 # 王东 <span style="font-size: initial;">(3年PHP开发) 简历</span>
 
-<span style="font-size: x-small;"> >> 简历在线版: [imdong.github.io](https://imdong.github.io/) >> PDF版(<b>HR</b>请走这里): [me.qs5.org](https://me.qs5.org/?github.io "请下载/打印此份")</span>
+<span style="font-size: x-small;"> >> 简历在线版: [imdong.github.io](https://imdong.github.io/) >> PDF版(<b>HR</b>请点这里): [me.qs5.org](https://me.qs5.org/?github.io "请下载/打印此份")</span>
 
 ## 自我介绍
 
@@ -21,8 +21,9 @@
 ## 技术能力
 
 > 开发语言: PHP, JavaScript  
-> 技术框架: ThinkPHP, jQuery  
-> 其他相关: Linux, Nginx, Mysql, Regexp  
+> 技术框架: ThinkPHP, jQuery, Bootstrap  
+> 其他相关: Linux, Nginx, MySQL, Regexp, Git  
+> 另: 对协议层相关技术有些许了解
 
 ## 工作/学习经历
 
