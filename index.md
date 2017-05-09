@@ -27,6 +27,22 @@
 > 技术框架: ThinkPHP, jQuery, Bootstrap  
 > 其他相关: Linux, Nginx, MySQL, Regexp, Git  
 
+## 兴趣爱好
+
+> 爱好跑步, 羽毛球, 徒步
+> 偶尔会参与一些户外活动
+
+## 个人作品
++ QsMail Server(Mail邮件服务端框架)
++ CSDN免积分下载
++ 百度网盘下载地址解析
++ PHP小数据缓存类
+
+## 技术文章
++ [【正则表达式】解析命令行参数(附PHP例子): https://www.qs5.org/Post/651.html](https://www.qs5.org/Post/651.html)
++ [PHP中if($a==false)和if(!$a)哪种写法速度更快？: https://www.qs5.org/Post/637.html](https://www.qs5.org/Post/637.html)
++ [【源码】C#根据IP段生成随机IP: https://www.qs5.org/Post/633.html](https://www.qs5.org/Post/633.html)
+
 ## 工作/学习经历
 
 |时间|地点|职务|状态|
@@ -59,11 +75,7 @@
 > 实现自动注册CSDN账号并获取积分，下载资源。  
 > 作品地址: http://www.qs5.org/csdn  (长期未维护，已失效)
 
-<p class="page_number">本页面由 Markdown 书写，托管于  Github, 使用 Apache 2 协议开源。<span>1/2</span></p>
-
-<span style="display: table-header-group;">王东简历</span>
-<span style="display: table-footer-group;">页尾</span>
-
+<p class="page_number">本页面由 Markdown 书写，托管于 Github, 使用 Apache 2 协议开源。<span>1/2</span></p>
 
 <!-- 修改页面 -->
 <link href="/asset/print.css" rel="stylesheet"><script type="text/javascript" src="/asset/bottom.js"></script>
