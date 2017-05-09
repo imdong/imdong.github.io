@@ -50,6 +50,6 @@
 
 <!-- 重写标题 -->
 <script type="text/javascript">
-document.title = "王东 (3年PHP开发)";
-document.getElementsByTagName('h1')[0].innerHTML = "王东 <span style="font-size: initial;">(3年PHP开发)</span>"
+document.title = '王东 (3年PHP开发)';
+document.getElementsByTagName('h1')[0].innerHTML = '王东 <span style="font-size: initial;">(3年PHP开发)</span>';
 </script>
