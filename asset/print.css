@@ -1,3 +1,5 @@
+.page_number {page-break-after:always; display: none;}
 @media print {
     .print_hide {display: none;}
+    .page_number {page-break-after:always; display: block;}
 }
