@@ -73,7 +73,7 @@
 > 实现自动注册CSDN账号并获取积分，下载资源。  
 > 作品地址: http://www.qs5.org/csdn  (长期未维护，已失效)
 
-<p class="page_number page_number_end">本页面由 Markdown 书写，托管于 Github, 使用 Apache 2 协议开源。<span>1/2</span></p>
+<p class="page_number page_number_end">本页面由 Markdown 书写，托管于 Github, 使用 Apache 2 协议开源。<span>2/2</span></p>
 
 <!-- 修改页面 -->
 <link href="/asset/print.css" rel="stylesheet"><script type="text/javascript" src="/asset/bottom.js"></script>
