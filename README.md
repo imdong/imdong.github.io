@@ -1,4 +1,4 @@
-# 王东 <span style="font-size: initial;">(3年PHP开发)</span>
+# 王东 ###(3年PHP开发)
 
 ### 自我介绍
 > 业余时间自学PHP，三年PHP开发工作经验。
