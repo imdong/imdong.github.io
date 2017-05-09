@@ -61,5 +61,9 @@
 
 <p class="page_number">本页面由 Markdown 书写，托管于  Github, 使用 Apache 2 协议开源。<span>1/2</span></p>
 
+<span style="display: table-header-group;">王东简历</span>
+<span style="display: table-footer-group;">页尾</span>
+
+
 <!-- 修改页面 -->
 <link href="/asset/print.css" rel="stylesheet"><script type="text/javascript" src="/asset/bottom.js"></script>
