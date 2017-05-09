@@ -23,7 +23,7 @@
 
 ## 技术能力
 
-> 开发语言: PHP, JavaScript, C#(入门)  
+> 开发语言: PHP, JavaScript, Shell, C#(入门)  
 > 技术框架: ThinkPHP, jQuery, Bootstrap  
 > 其他相关: Linux, Nginx, MySQL, Regexp, Git  
 
@@ -34,6 +34,7 @@
 ## 个人作品
 + QsMail Server(Mail邮件服务端框架)
 + PHP小数据缓存类
++ Swoole热更新脚本, 单实例管理Shell脚本
 
 ## 技术文章
 + [【正则表达式】解析命令行参数(附PHP例子)](https://www.qs5.org/Post/651.html)
@@ -48,7 +49,7 @@
 |2015.02-2015.09|枣庄美辰信息技术|PHP开发|来深圳发展|
 |2010.09-2011.11|枣庄科技职业学院|计算机应用|结业|
 
-<p class="page_number">本页面由 Markdown 书写，托管于  Github, 使用 Apache 2 协议开源。<span>1/2</span></p>
+<p class="page_number">本页面由 Markdown 书写，托管于 Github, 使用 Apache 2 协议开源。<span>1/2</span></p>
 
 ## 项目经验
 
