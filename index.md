@@ -5,14 +5,14 @@
 ## 自我介绍
 
 > 业余时间自学PHP，曾担任公司技术主管，熟悉Linux日常维护。  
-> 虽实际工作经验两年有余，但此前业余在家也有写代码。  
+> 虽实际工作经验两年有余，但此前业余在家也写代码。  
 > 熟练掌握Web前后端开发技术，能独立开发完成一个Web项目。  
 > 拥有较强的学习能力，业余有做一些小项目。
 
 ## 关于我 / 联系我
 
 + **性别**: 男
-+ **年龄**: 24岁
++ **年龄**: 23岁
 + **籍贯**: 山东省-枣庄
 + **手机**: 15263263676 (山东枣庄)
 + **Q  Q**: 598346965
@@ -31,12 +31,12 @@
 
 > 爱好跑步, 羽毛球, 徒步, 偶尔会参与一些户外活动
 
-## 个人作品
+## 近期个人作品
 + QsMail Server(Mail邮件服务端框架)
++ Swoole热更新, 单实例应用进程管理Shell脚本
 + PHP小数据缓存类
-+ Swoole热更新脚本, 单实例进程管理Shell脚本
 
-## 技术文章
+## 近期技术文章
 + [【正则表达式】解析命令行参数(附PHP例子)](https://www.qs5.org/Post/651.html)
 + [PHP中if($a==false)和if(!$a)哪种写法速度更快？](https://www.qs5.org/Post/637.html)
 + [【源码】C#根据IP段生成随机IP](https://www.qs5.org/Post/633.html)
@@ -73,7 +73,7 @@
 > 实现自动注册CSDN账号并获取积分，下载资源。  
 > 作品地址: http://www.qs5.org/csdn  (长期未维护，已失效)
 
-<p class="page_number">本页面由 Markdown 书写，托管于 Github, 使用 Apache 2 协议开源。<span>1/2</span></p>
+<p class="page_number page_number_end">本页面由 Markdown 书写，托管于 Github, 使用 Apache 2 协议开源。<span>1/2</span></p>
 
 <!-- 修改页面 -->
 <link href="/asset/print.css" rel="stylesheet"><script type="text/javascript" src="/asset/bottom.js"></script>
