@@ -1,5 +1,6 @@
-.page_number {page-break-after:always; display: none;}
+.page_number {page-break-after: always; display: none; text-align: center;}
+.page_number span {float: right;}
 @media print {
     .print_hide {display: none;}
-    .page_number {page-break-after:always; display: block;}
+    .page_number {page-break-after: always; display: block;}
 }
