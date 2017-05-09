@@ -1,6 +1,6 @@
 # 王东 <span style="font-size: initial;">(3年PHP开发)</span>
 
-<span class="print" style="font-size: x-small;"> > 简历在线版: [imdong.github.io](https://imdong.github.io/) PDF版(HR请走这里): [qs5.org/resume](https://qs5.org/resume)</span>
+<span style="font-size: x-small;"> > 简历在线版: [imdong.github.io](https://imdong.github.io/) PDF版(HR请走这里): [qs5.org/resume](https://qs5.org/resume)</span>
 
 ### 自我介绍
 
