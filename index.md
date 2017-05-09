@@ -36,17 +36,8 @@
 |2010.09-2011.11|枣庄科技职业学院|计算机应用|结业|
 
 ##### 本页面由 Markdown 书写，托管于  Github, 使用 Apache 2开源协议。
-<p style="page-break-after:always;">分页</p>
 
-
-
-
-
-
-
-
-
-
+<p style="page-break-after:always;"></p>
 
 ## 项目经验
 
