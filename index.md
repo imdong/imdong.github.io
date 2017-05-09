@@ -35,9 +35,8 @@
 |2015.02-2015.09|枣庄美辰信息技术|PHP开发|来深圳发展|
 |2010.09-2011.11|枣庄科技职业学院|计算机应用|结业|
 
-##### 本页面由 Markdown 书写，托管于  Github, 使用 Apache 2开源协议。
-
-<p style="page-break-after:always;"></p>
+##### 本页面由 Markdown 书写，托管于  Github, 使用 Apache 2 协议开源。
+<p style="page-break-after:always;">1/2</p>
 
 ## 项目经验
 
