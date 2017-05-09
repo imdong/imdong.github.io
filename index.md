@@ -45,15 +45,15 @@
 |2015.02-2015.09|枣庄美辰信息技术|PHP开发|来深圳发展|
 |2010.09-2011.11|枣庄科技职业学院|计算机应用|中专结业|
 
-<!-- 预制样式 -->
+<!--//
 <style type="text/css">
     @media print {
         .print{display: none;}
     }
 </style>
-<!-- 重写标题 -->
 <script type="text/javascript">
 document.title = document.getElementsByTagName('h1').length < 1 
     ? '王东 (3年PHP开发)'
     : document.getElementsByTagName('h1')[0].innerText;
 </script>
+//-->
