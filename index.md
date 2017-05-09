@@ -1,5 +1,13 @@
+<!-- 预制样式 -->
+<style type="text/css">
+    @media print {
+        .print{display: none;}
+    }
+</style>
 # 王东 <span style="font-size: initial;">(3年PHP开发)</span>
-
+<span class="print">
+> 简历在线版: https://imdong.github.io/ PDF版(HR请走这里): https://qs5.org/resume
+</span>
 ### 自我介绍
 >业余时间自学PHP，三年PHP开发工作经验。
 >熟悉Linux系统日常维护、正则表达式。
