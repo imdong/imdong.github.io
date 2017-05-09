@@ -16,6 +16,7 @@
 + **籍贯**: 山东省-枣庄
 + **手机**: 15263263676 (山东枣庄)
 + **Q  Q**: 598346965
++ **微信**: im27786
 + **邮箱**: [job@qs5.org](mailto://job@qs5.org)
 + **博客**: [www.qs5.org](https://www.qs5.org/?github.io)
 + **GitHub**: [github.com/imdong](https://github.com/imdong)
