@@ -37,9 +37,9 @@
 + PHP小数据缓存类
 
 ## 近期技术文章
-+ [【正则表达式】解析命令行参数(附PHP例子)](https://www.qs5.org/Post/651.html)
-+ [PHP中if($a==false)和if(!$a)哪种写法速度更快？](https://www.qs5.org/Post/637.html)
-+ [【源码】C#根据IP段生成随机IP](https://www.qs5.org/Post/633.html)
++ [【正则表达式】解析命令行参数(附PHP例子)](https://www.qs5.org/Post/651.html?github.io)
++ [PHP中if($a==false)和if(!$a)哪种写法速度更快？](https://www.qs5.org/Post/637.html?github.io)
++ [【源码】C#根据IP段生成随机IP](https://www.qs5.org/Post/633.html?github.io)
 
 ## 工作/学习经历
 
@@ -87,28 +87,20 @@
 > 针对比较熟悉的DedeCMS系统进行二次开发，实现单点登录，远程管理，模板系统。  
 > 部署服务器预留接口，利用PHP执行Shell脚本实现远程创建网站，数据库，自动安装CMS。  
 > 利用JS多线程远程(解决跨域)对多台服务器同时自动化部署，安装，发文章等操作。  
-> 配合DNSPod API进行域名解析，Nginx反向代理可变数据到OSS实现文章图片，医院信息，模板图片等远程更新。
+> 配合DNSPod API进行域名解析，Nginx反向代理可变数据到OSS实现文章图片，医院信息，模板图片等远程更新。  
 
 ###### 实现结果:
 
-> 除准备网站模板制作，文章库填充时间外，四个人一晚上线网站两千余个，且后期多次上线大批网站用时极短。  
+> 除准备网站模板制作，文章库填充时间外，四个人一晚上线网站两千余个，且后期多次上线大批网站用时较短。  
 > 对制定了规范的网站模板进行颜色范围随机替换，实现一套模板可给不同科室通用，减少模板制作量。  
 > 对文章进行关键词替换，实现同一篇文章可于同一科室不同医院使用，避免文章数量不足的问题。
 
+### 其他项目 ( 主导或独立完成 )
 
-#### 网站DDoS防护自动处理预案(2016.08-2016.10 / Nginx / 独立完成)
-> 利用第三方高防服务器反向代理清洗后的流量通过阿里云跳板机走内网回源到原网站服务器。  
-> Nginx配置反向代理与静态文件缓存，PHP使用POP3协议收取邮箱邮件，收到到阿里云的攻击邮件后自动更改域名解析到高防IP。  
-
-#### Mail邮件系统 (2017.04-2017.05 / PHP + Swoole / 业余开源 )
-> 利用Swwole创建服务，封装POP3 + SMTP协议。  
-> 实现简易邮件服务器。  
-> 开源项目地址: https://github.com/imdong/QsMail-Server/
-
-#### CSDN免积分下载 (2015.09-2016.04 / PHP / 业余作品)
-> 利用CSDN验证码BUG和任务积分系统，配合第三方临时邮件服务。  
-> 实现自动注册CSDN账号并获取积分，下载资源。  
-> 作品地址: http://www.qs5.org/csdn  (长期未维护，已失效)
++ **网站DDoS防护自动处理预案**: 利用第三方高防服务器反向代理清洗后的流量回源到原服务器，配合POP3协议与DNSPod API实现被攻击自动快速切换，减少因攻击导致的流量损失。
++ **第三方平台文章自动发布工具**：自动定时向不同平台发布文章，减少外推人员工作量且提高发布文章数量。
++ **Mail邮件服务器系统(业余作品)**: 基于Swoole封装SMTP+POP3协议实现。项目地址: [https://github.com/imdong/QsMail-Server/](https://github.com/imdong/QsMail-Server)
++ **CSDN免积分下载**(业余作品): 自动获取有积分账号获取资源下载链接并返回。作品地址: [http://www.qs5.org/csdn](http://www.qs5.org/csdn?github.io)  (长期未维护，已失效)
 
 <p class="page_number page_number_end">本页面由 Markdown 书写，托管于 Github, 使用 Apache 2 协议开源。<span>2/2</span></p>
 
