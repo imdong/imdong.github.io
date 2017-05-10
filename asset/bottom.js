@@ -1,3 +1,3 @@
 document.title = document.getElementsByTagName('h1').length < 1
-    ? '王东 (3年PHP开发)'
-    : document.getElementsByTagName('h1')[0].innerText;
+    ? '王东_3年PHP开发_简历'
+    : document.getElementsByTagName('h1')[0].innerText.replace(/!"#$%&'()*+,-.\/:;<=>?@[\\]^`{|}~/g, '_');
