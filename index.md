@@ -1,6 +1,6 @@
 # 王东 <span style="font-size: initial;">(3年PHP开发) 简历</span>
 
-<span style="font-size: x-small;"> >> 简历最后更新时间:(2017.05.10) >> 查看在线版: [imdong.github.io](https://imdong.github.io/) >> 下载PDF版(<b>HR</b>请点这里): [me.qs5.org/pdf](https://me.qs5.org/pdf?github.io "请下载/打印此份")</span>
+<span style="font-size: x-small;"> >> 简历最后更新时间:(2017.05.10) >> 查看在线版: [me.qs5.org](https://me.qs5.org/) >> 下载PDF版(<b>HR</b>请点这里): [me.qs5.org/pdf](https://me.qs5.org/pdf?github.io "请下载/打印此份")</span>
 
 ## 自我介绍
 
