@@ -105,6 +105,11 @@
 + **CSDN免积分下载**(业余作品): 自动获取有积分账号获取资源下载链接并返回。  
 作品地址: [http://www.qs5.org/csdn](http://www.qs5.org/csdn?github.io)  (长期未维护，已失效)
 
+## 致谢
+
+> 感谢您百忙之中抽出时间阅读我的简历，非常期待能与您一起共事。
+
+
 <p class="page_number page_number_end">本页面由 Markdown 书写，托管于 Github, 使用 Apache 2 协议开源。<span>2/2</span></p>
 
 <!-- 修改页面 -->
