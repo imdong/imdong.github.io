@@ -110,6 +110,8 @@
 
 > 感谢您百忙之中抽出时间阅读我的简历，非常期待能与您一起共事。
 
+　　
 <!-- 修改页面 -->
 <link href="/asset/print.css" rel="stylesheet"><script type="text/javascript" src="/asset/bottom.js"></script>
-<p class="page_number_end">本页面由 Markdown 书写，托管于 Github, 使用 Apache 2 协议开源。<span>2/2</span></p>
+
+<p class="page_number page_number_end">本页面由 Markdown 书写，托管于 Github, 使用 Apache 2 协议开源。<span>2/2</span></p>
