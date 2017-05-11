@@ -113,5 +113,8 @@
 　　
 <!-- 修改页面 -->
 <link href="/asset/print.css" rel="stylesheet"><script type="text/javascript" src="/asset/bottom.js"></script>
-
+<!-- 统计代码 -->
+<div style="display: none;">
+    <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1261917467'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1261917467' type='text/javascript'%3E%3C/script%3E"));</script>
+</div>
 <p class="page_number page_number_end">本页面由 Markdown 书写，托管于 Github, 使用 Apache 2 协议开源。<span>2/2</span></p>
