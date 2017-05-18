@@ -1,6 +1,6 @@
 # 王东 <span style="font-size: initial;">(3年PHP开发) 简历</span>
 
-<span style="font-size: x-small;"> >> 简历最后更新时间:(2017.05.10) >> 查看在线版: [me.qs5.org](https://me.qs5.org/) >> 下载PDF版(<b>HR</b>请点这里): [me.qs5.org/pdf](https://me.qs5.org/pdf?github.io "请下载/打印此份")</span>
+<span style="font-size: x-small;"> >> 简历最后更新时间:(2017.05.18) >> 查看在线版: [me.qs5.org](https://me.qs5.org/) >> 下载PDF版(<b>HR</b>请点这里): [me.qs5.org/pdf](https://me.qs5.org/pdf?github.io "请下载/打印此份")</span>
 
 ## 自我介绍
 
@@ -47,7 +47,7 @@
 |----|----|----|----|
 |2015.09-2017.05|深圳博仕集团|技术主管|在职|
 |2015.02-2015.09|枣庄美辰信息技术|PHP开发|来深圳发展|
-|2010.09-2011.11|枣庄科技职业学院|计算机应用|结业|
+|2010.09-2012.07|枣庄科技职业学院|计算机应用|毕业|
 
 <p class="page_number">本页面由 Markdown 书写，托管于 Github, 使用 Apache 2 协议开源。<span>1/2</span></p>
 
