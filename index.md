@@ -19,7 +19,7 @@
 ## 技术能力
 
 > 开发语言: PHP, JavaScript, Shell, C#
-> 技术框架: ThinkPHP, jQuery, Bootstrap, Layui, Swoole
+> 技术框架: Yii2, ThinkPHP, jQuery, Bootstrap, Layui, Swoole
 > 其他相关: Linux, Nginx, MySQL, Regexp, Git
 
 ## 兴趣爱好
