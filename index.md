@@ -1,25 +1,20 @@
 # 王东 <span style="font-size: initial;">(3年PHP开发) 简历</span>
 
-<span style="font-size: x-small;"> >> 简历最后更新时间:(2018.02.23) >> 查看在线版: [me.qs5.org](https://me.qs5.org/) >> 下载PDF版(<b>HR</b>请点这里): [me.qs5.org/pdf](https://me.qs5.org/pdf?github.io "请下载/打印此份")</span>
+<span style="font-size: x-small;"> >> 简历最后更新时间:(2018.02.24) >> 查看在线版: [me.qs5.org](https://me.qs5.org/) >> 下载PDF版(<b>HR</b>请点这里): [me.qs5.org/pdf](https://me.qs5.org/pdf?github.io "请下载/打印此份")</span>
 
 ## 自我介绍
 
 > 业余时间自学PHP，曾担任公司技术主管，熟悉Linux日常维护。
-> 虽实际工作经验两年有余，但在公司一直是技术主导，且此前业余在家也写代码。
 > 熟练掌握Web前后端开发技术，能独立开发完成一个Web项目。
 > 拥有较强的学习能力，业余有做一些小项目。
 
 ## 关于我 / 联系我
 
-+ **性别**: 男
-+ **年龄**: 23岁
-+ **籍贯**: 山东省-枣庄
-+ **手机**: 15263263676 (山东枣庄)
-+ **Q  Q**: 598346965
-+ **微信**: im27786
-+ **邮箱**: [job@qs5.org](mailto://job@qs5.org)
-+ **博客**: [www.qs5.org](https://www.qs5.org/?github.io)
-+ **GitHub**: [github.com/imdong](https://github.com/imdong)
+| #        | -           | #        | -         | #        | -           |
+| -------- | ----------- | -------- | --------- | -------- | ----------- |
+| **性别** | 男          | **年龄** | 23岁      | **籍贯** | 山东省-枣庄 |
+| **手机** | 15263263676 | **Q  Q** | 598346965 | **微信** | im27786     |
+| **邮箱** | [job@qs5.org](mailto://job@qs5.org) | **博客** | [www.qs5.org](https://www.qs5.org/?github.io) | **GitHub** | [github.com/imdong](https://github.com/imdong) |
 
 ## 技术能力
 
@@ -29,15 +24,11 @@
 
 ## 兴趣爱好
 
-> 爱好跑步, 羽毛球, 徒步, 偶尔会参与一些户外活动
+> 爱好跑步, 骑行, 羽毛球, 徒步, 偶尔会参与一些户外活动。
 
-## 近期个人作品
-+ QsMail Server(Mail邮件服务端系统)
-+ Swoole热更新, 单实例应用进程管理Shell脚本
-+ PHP小数据缓存类
-
-## 近期技术文章
+## 个人作品 / 技术文章
 + [浏览器禁用Cookies时跟踪并标记用户思路与实现](https://www.qs5.org/Post/653.html?github.io)
++ [Swoole热更新, 单实例应用进程管理Shell脚本](https://github.com/imdong/Swoole-Reload-Demo)
 + [【正则表达式】解析命令行参数(附PHP例子)](https://www.qs5.org/Post/651.html?github.io)
 + [PHP中if($a==false)和if(!$a)哪种写法速度更快？](https://www.qs5.org/Post/637.html?github.io)
 
@@ -54,28 +45,21 @@
 
 ## 项目经验
 
-#### 网站广告管理加载系统 ( 2015.09-2015.10 / PHP + MySQL + JavaScript / 独自分析, 构架及代码完成 )
+#### P2P金融内部业务系统 （2017.06-2017.11 / Yii2 + Bootstrap + LayUI）
 
-###### 需求分析:
+###### 团队职责:
 
-> 由于网站数量众多，网站悬浮广告代码杂乱缺乏管理，日常更新较为频繁，每天在更换广告上面浪费极多时间。
-> 最严重的时候，更换一次活动需要数日才能完成，且常有遗漏或者错误，策划检查网站也浪费很多时间。
+> 负责客户收单信息完善至审核流程，与部分配置性功能。
 
-###### 解决方案:
+###### 主要贡献:
 
-> 首先制定规范，并统一加载，调用，事件等相关接口。
-> 利用正则表达式的灵活根据来路Url实现指定域名，指定网站，甚至指定页面加载不同的悬浮广告信息。
-> 前端自行封装JS框架实现加载调用逻辑，同时为后期可能的扩展预留接口。
+> 基于Layer二次封装Ajax弹窗，封装Mock.js减轻开发时测试数据的问题。
+> 封装配置模型，杂项配置无需关心建表自动处理存储。
 
-###### 实现结果:
+###### 个人成长:
 
-> 切换后，除技术人员写模板时间外，更换全站方案一个人可在几分钟内完成，且不同医院可以共用相同的模板。
-> 公司其他的功能代码加载也逐渐依赖这个系统加载，上新功能可在几分钟内所有网站生效。
-> 不仅节约大量人力与时间，且减少由于错误带来的流量损失，人员可以腾出更多时间完成更多事情。
-
-###### 个人成长：
-
-> 前端JS框架自己从无到有的写完，克服了很多没想到的问题，并且JS技术上提升了很大一个台阶。
+> 学会与产品经理和团队成员沟通，
+> 接触Yii2框架开发并熟练掌握。
 
 #### 站群批量建站系统  ( 2016.04-2016.05 / PHP + Shell + JavaScript / 独立完成 )
 
@@ -85,19 +69,16 @@
 
 ###### 解决方案:
 
-> 针对比较熟悉的DedeCMS系统进行二次开发，实现单点登录，远程管理，模板系统。
-> 部署服务器预留接口，利用PHP执行Shell脚本实现远程创建网站，数据库，自动安装CMS。
-> 利用JS多线程远程(解决跨域)对多台服务器同时自动化部署，安装，发文章等操作。
-> 配合DNSPod API进行域名解析，Nginx反向代理可变数据到OSS实现文章图片，医院信息，模板图片等远程更新。
+> 基于DedeCMS二次开发，实现单点登录，远程管理，模板系统。
+> 使用Shell远程安装，利用JS来多线程远程自动化部署，配合DNSPod API解析域名，Nginx反向代理常变资源。
 
 ###### 实现结果:
 
-> 除准备网站模板制作，文章库填充时间外，四个人一晚上线网站两千余个，且后期多次上线大批网站用时较短。
-> 对制定了规范的网站模板进行颜色范围随机替换，实现一套模板可给不同科室通用，减少模板制作量。
-> 对文章进行关键词替换，实现同一篇文章可于同一科室不同医院使用，避免文章数量不足的问题。
+> 实现大批量上线站群，解放劳动力，对模板颜色与文章关键词替换实现大量不同内容。
 
 ## 其他项目 ( 主导或独立完成 )
 
++ **网站广告管理加载系统**: 制定规范使用正则表达式匹配来路加载不同的配置，更换内容无需技术参与。
 + **网站DDoS防护自动处理预案**: 利用第三方高防服务器反向代理清洗后的流量回源到原服务器
 配合POP3协议与DNSPod API实现被攻击自动快速切换，减少因攻击导致的流量损失。
 + **第三方平台文章自动发布工具**: 自动定时向不同平台发布文章，减少外推人员工作量且提高发布文章数量。
@@ -113,9 +94,10 @@
 
 　　
 <!-- 修改页面 -->
-<link href="/asset/print.css" rel="stylesheet"><script type="text/javascript" src="/asset/bottom.js"></script>
+<link href="/asset/print.css" rel="stylesheet" />
+<script type="text/javascript" src="/asset/bottom.js"></script>
 <!-- 统计代码 -->
-<div style="display: none;">
+<!-- <div style="display: none;">
     <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1261917467'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s4.cnzz.com/z_stat.php%3Fid%3D1261917467' type='text/javascript'%3E%3C/script%3E"));</script>
-</div>
+</div> -->
 <p class="page_number page_number_end">本页面由 Markdown 书写，托管于 Github, 使用 Apache 2 协议开源。<span>2/2</span></p>
