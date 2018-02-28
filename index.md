@@ -1,6 +1,6 @@
 # 王东 <span style="font-size: initial;">(3年PHP开发) 简历</span>
 
-<span style="font-size: x-small;"> >> 简历最后更新时间:(2018.02.24) >> 查看在线版: [me.qs5.org](https://me.qs5.org/) >> 下载PDF版(<b>HR</b>请点这里): [me.qs5.org/pdf](https://me.qs5.org/pdf?github.io "请下载/打印此份")</span>
+<span style="font-size: x-small;"> >> 简历最后更新时间:(2018.02.28) >> 查看在线版: [me.qs5.org](https://me.qs5.org/) >> 下载PDF版(<b>HR</b>请点这里): [me.qs5.org/pdf](https://me.qs5.org/pdf?github.io "请下载/打印此份")</span>
 
 ## 自我介绍
 
@@ -12,7 +12,7 @@
 
 | #        | -           | #        | -         | #        | -           |
 | -------- | ----------- | -------- | --------- | -------- | ----------- |
-| **性别** | 男          | **年龄** | 23岁      | **籍贯** | 山东省-枣庄 |
+| **性别** | 男          | **年龄** | 24岁      | **籍贯** | 山东省-枣庄 |
 | **手机** | 15263263676 | **Q  Q** | 598346965 | **微信** | im27786     |
 | **邮箱** | [job@qs5.org](mailto://job@qs5.org) | **博客** | [www.qs5.org](https://www.qs5.org/?github.io) | **GitHub** | [github.com/imdong](https://github.com/imdong) |
 
@@ -29,7 +29,7 @@
 ## 个人作品 / 技术文章
 + [浏览器禁用Cookies时跟踪并标记用户思路与实现](https://www.qs5.org/Post/653.html?github.io)
 + [Swoole热更新, 单实例应用进程管理Shell脚本](https://github.com/imdong/Swoole-Reload-Demo)
-+ [【正则表达式】解析命令行参数(附PHP例子)](https://www.qs5.org/Post/651.html?github.io)
++ [PHP简易实现MVC框架与思路](https://github.com/imdong/Demo-Machine-1)
 + [PHP中if($a==false)和if(!$a)哪种写法速度更快？](https://www.qs5.org/Post/637.html?github.io)
 
 ## 工作/学习经历
