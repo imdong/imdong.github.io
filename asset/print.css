@@ -1,8 +1,29 @@
-.page_number {page-break-after: always; display: none; text-align: center;}
-.page_number span {float: right;}
-.page_number_end {display: block; padding-bottom: 10px;}
+.page_number {
+    page-break-after: always;
+    display: none;
+    text-align: center;
+}
+.page_number span {
+    float: right;
+}
+.page_number_end {
+    display: block;
+    padding-bottom: 10px;
+}
+span {
+    font-size: x-small;
+}
 @media print {
-    body, h1, h2, h4, h6, blockquote, ul {margin: 4px auto; padding-top: 0px;}
+    body, h1, h2, h4, h6, blockquote, ul, p {
+        margin: 0;
+        padding-top: 0px;
+    }
+    h1 {
+        padding-bottom: 0px;
+    }
+    table {
+        margin-bottom: 0px;
+    }
     table {margin-bottom: 0px;}
     .print-btn {display: none;}
     .print_hide {display: none;}
