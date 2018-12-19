@@ -1,9 +1,9 @@
 .page_number {
-    page-break-after: always;
     display: none;
     text-align: center;
 }
 .page_number span {
+    page-break-after: always;
     float: right;
 }
 .page_number_end {
@@ -14,9 +14,8 @@ span {
     font-size: x-small;
 }
 @media print {
-    body, h1, h2, h4, h6, blockquote, ul, p {
+    h1, h2, h3, h4, h5, h6, blockquote, ul, p {
         margin: 0;
-        padding-top: 0px;
     }
     h1 {
         padding-bottom: 0px;
@@ -24,10 +23,20 @@ span {
     table {
         margin-bottom: 0px;
     }
-    table {margin-bottom: 0px;}
-    .print-btn {display: none;}
-    .print_hide {display: none;}
-    .page_number {page-break-after: always; display: block;}
-    .page_number_end {padding-bottom: 0px;}
-    .markdown-body h1:first-child {display: none;}
+    .print-btn {
+        display: none;
+    }
+    .print_hide {
+        display: none;
+    }
+    .page_number {
+        page-break-after: always;
+        display: block;
+    }
+    .page_number_end {
+        padding-bottom: 0px;
+    }
+    .markdown-body h1:first-child {
+        display: none;
+    }
 }
